@@ -1,6 +1,7 @@
 development:
   archivist:
     - archivist1@example.com
+    - reiss.kevin@yahoo.com
 test:
   archivist:
     - archivist1@example.com
